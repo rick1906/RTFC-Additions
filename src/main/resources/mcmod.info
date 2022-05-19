@@ -1,0 +1,21 @@
+{
+    "modListVersion": 2,
+    "modList": [{
+        "modid": "RTFCAdditions",
+        "name": "RTFC Additions",
+        "description": "Additions for Rick's TFC Pack.",
+        "version": "${mod_version}",
+        "mcversion": "${minecraft_version}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Rick"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "parent": "",
+        "requiredMods": ["Forge", "terrafirmacraft", "Forestry"],
+        "dependencies": ["terrafirmacraft", "Forestry"],
+        "dependants": [],
+        "useDependencyInformation": "true"
+    }]
+}
